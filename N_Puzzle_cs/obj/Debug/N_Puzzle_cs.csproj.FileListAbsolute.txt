@@ -1,0 +1,26 @@
+E:\Documents\Bài tập lớn\N_Puzzle_cs\bin\Debug\N_Puzzle_cs.exe.config
+E:\Documents\Bài tập lớn\N_Puzzle_cs\bin\Debug\N_Puzzle_cs.exe
+E:\Documents\Bài tập lớn\N_Puzzle_cs\bin\Debug\N_Puzzle_cs.pdb
+E:\Documents\Bài tập lớn\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.csprojAssemblyReference.cache
+E:\Documents\Bài tập lớn\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.Form1.resources
+E:\Documents\Bài tập lớn\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.Properties.Resources.resources
+E:\Documents\Bài tập lớn\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.csproj.GenerateResource.cache
+E:\Documents\Bài tập lớn\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.csproj.CoreCompileInputs.cache
+E:\Documents\Bài tập lớn\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.exe
+E:\Documents\Bài tập lớn\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.pdb
+E:\Documents\Bài tập lớn\N_Puzzle_cs\bin\Debug\Solution.dll
+E:\Documents\Bài tập lớn\N_Puzzle_cs\bin\Debug\Solution.pdb
+E:\Documents\Bài tập lớn\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.csproj.CopyComplete
+E:\Documents\BaiTapLon\N_Puzzle_cs\bin\Debug\N_Puzzle_cs.exe.config
+E:\Documents\BaiTapLon\N_Puzzle_cs\bin\Debug\N_Puzzle_cs.exe
+E:\Documents\BaiTapLon\N_Puzzle_cs\bin\Debug\N_Puzzle_cs.pdb
+E:\Documents\BaiTapLon\N_Puzzle_cs\bin\Debug\Solution.dll
+E:\Documents\BaiTapLon\N_Puzzle_cs\bin\Debug\Solution.pdb
+E:\Documents\BaiTapLon\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.csprojAssemblyReference.cache
+E:\Documents\BaiTapLon\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.Form1.resources
+E:\Documents\BaiTapLon\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.Properties.Resources.resources
+E:\Documents\BaiTapLon\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.csproj.GenerateResource.cache
+E:\Documents\BaiTapLon\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.csproj.CoreCompileInputs.cache
+E:\Documents\BaiTapLon\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.csproj.CopyComplete
+E:\Documents\BaiTapLon\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.exe
+E:\Documents\BaiTapLon\N_Puzzle_cs\obj\Debug\N_Puzzle_cs.pdb

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_Puzzle_cs", "N_Puzzle_cs.csproj", "{A010B28F-162B-4775-9AB2-C2A649EEBD25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution", "Solution\Solution.csproj", "{282F1105-8469-45A5-A1E8-12578EA0C0E5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Puzzle_Kien_Tuan_BDATTT", "..\Puzzle_Kien_Tuan_BDATTT\Puzzle_Kien_Tuan_BDATTT.vdproj", "{EFE54C04-2CD1-4532-A0C7-AA090814F0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A010B28F-162B-4775-9AB2-C2A649EEBD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A010B28F-162B-4775-9AB2-C2A649EEBD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A010B28F-162B-4775-9AB2-C2A649EEBD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A010B28F-162B-4775-9AB2-C2A649EEBD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282F1105-8469-45A5-A1E8-12578EA0C0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282F1105-8469-45A5-A1E8-12578EA0C0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282F1105-8469-45A5-A1E8-12578EA0C0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282F1105-8469-45A5-A1E8-12578EA0C0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE54C04-2CD1-4532-A0C7-AA090814F0C2}.Debug|Any CPU.ActiveCfg = Debug
+		{EFE54C04-2CD1-4532-A0C7-AA090814F0C2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {614C646B-EDB4-4061-AAB4-22A1B4FA8DCD}
+	EndGlobalSection
+EndGlobal

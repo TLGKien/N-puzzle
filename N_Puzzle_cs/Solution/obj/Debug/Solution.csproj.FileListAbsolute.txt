@@ -1,0 +1,12 @@
+E:\Documents\Bài tập lớn\N_Puzzle_cs\Solution\bin\Debug\Solution.dll
+E:\Documents\Bài tập lớn\N_Puzzle_cs\Solution\bin\Debug\Solution.pdb
+E:\Documents\Bài tập lớn\N_Puzzle_cs\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+E:\Documents\Bài tập lớn\N_Puzzle_cs\Solution\obj\Debug\Solution.dll
+E:\Documents\Bài tập lớn\N_Puzzle_cs\Solution\obj\Debug\Solution.pdb
+E:\Documents\Bài tập lớn\N_Puzzle_cs\Solution\obj\Debug\Solution.csprojAssemblyReference.cache
+E:\Documents\BaiTapLon\N_Puzzle_cs\Solution\bin\Debug\Solution.dll
+E:\Documents\BaiTapLon\N_Puzzle_cs\Solution\bin\Debug\Solution.pdb
+E:\Documents\BaiTapLon\N_Puzzle_cs\Solution\obj\Debug\Solution.csprojAssemblyReference.cache
+E:\Documents\BaiTapLon\N_Puzzle_cs\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+E:\Documents\BaiTapLon\N_Puzzle_cs\Solution\obj\Debug\Solution.dll
+E:\Documents\BaiTapLon\N_Puzzle_cs\Solution\obj\Debug\Solution.pdb
